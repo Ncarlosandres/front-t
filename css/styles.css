@@ -1,0 +1,129 @@
+/* Navigation Bar */
+
+.navbar-brand {
+    margin-left: px;
+}
+.navbar ul li a {
+  display: block;
+  justify-content: space-between;
+  margin-right: 50px; 
+  margin-left: 20px;  
+}
+
+/* Buttons */
+
+.btn {
+
+margin-right: 15px;
+text-decoration: none;
+padding: 5px 8px;
+width: 10%;
+justify-content: space-between;
+}
+
+.btn-outline-primary {
+    margin-right: 10px;
+}
+
+.con-button {
+    text-align: center;
+   padding: 20px;
+   display: inline-block;
+   margin: 30px;
+   
+ 
+}
+
+.learnMor {
+    margin-right: 0px;
+text-decoration: none;
+padding: 5px 8px;
+width: 20%;
+justify-content: space-between;
+}
+
+.img-fluid {
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin-bottom: 70px;  
+}
+
+/* Title Section */
+
+h1 {
+    width: 40%;
+}
+
+div h2 {
+    margin-top: 20%;
+}
+
+hr {
+    margin-top: 50px;
+}
+
+/* Sections */
+
+.title-1 {
+    width: 40%;
+    text-decoration: none;
+    line-height: 2;
+}
+
+.title-2 {
+    width: 40%;
+    text-decoration: none;
+    line-height: 2;
+}
+
+.title-3{
+    
+   margin-left: 50%;
+   margin-top: -21.70%;
+    width: 40%;
+    text-decoration: none;
+    line-height: 2;
+}
+
+/* Features Section */
+
+.view-t {
+   
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.view-t img {
+   
+    width: 50%;
+    height: auto;
+}
+
+#press {
+    
+    padding-bottom: 10%;
+    align-items: center;
+  }
+
+  /* Footer Section */
+
+  .press-logo {
+    padding: 20px;
+    width: 20%;
+    margin: 50px auto 10px 50px;
+  }
+
+  #footer {
+      margin-top: 70px;
+      margin-bottom: 70px;
+      text-align: center;
+  }
+
+  
+.social-icon {
+    margin: 20px 10px;
+  }
+  
+
+  
